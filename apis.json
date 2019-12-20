@@ -1,0 +1,59 @@
+{
+    "name": "Walk Score",
+    "description": "<p>TidyClub is an enterprise-like cloud computing company built for your mother with a per transaction revenue model. The company is best known for making committee administration simple through combine CRM, Memberships, Tasks, Events, Payments, Finances, Meeting Minutes, SMS into one open environment. <\/p>\n\n<p>TidyClub was founded in 2009 by Australian businessman Isaak Dury and launched to the public in November of 2011. TidyClub has been a pioneer in developing an enterprise-like platform for the &#8216;common person&#8217; through its open model allowing to extend the platform to specific needs for groups.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-58-pm.png",
+    "tags": [
+        "distance",
+        "driving",
+        "have api",
+        "profile",
+        "walking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/walk-score\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Walk Score",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-58-pm.png",
+            "humanURL": "http:\/\/www.walkscore.com\/professional\/travel-time-api.php",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/walk-score-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/walk-score-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.walkscore.com\/professional\/travel-time-api.php"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.walkscore.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/WalkScoreBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/tidyclub"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/walkscore"
+        }
+    ]
+}
