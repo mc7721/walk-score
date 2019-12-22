@@ -9,8 +9,8 @@
         "profile",
         "walking"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/walk-score\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -24,17 +24,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/walk-score-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/walk-score\/master\/walk-score-openapi.json"
                 },
                 {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/walk-score-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/walk-score\/master\/walk-score-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Website",
             "url": "http:\/\/www.walkscore.com\/professional\/travel-time-api.php"
